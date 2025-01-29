@@ -1,7 +1,7 @@
 body{
     background-color: #000000;
     color: #ffffff;
-    font-family: Arial, verdana;
+    font-family: Arial, Verdana;
     margin: 20px 20px 0px;
 
 }
@@ -46,7 +46,8 @@ div{
     padding: 20px;
     border: solid 3px #ffffff;
     min-height: 125px;
-    
+   
+
 
 
 }
