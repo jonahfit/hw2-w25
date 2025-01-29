@@ -45,6 +45,8 @@ div{
 
     padding: 20px;
     border: solid 3px #ffffff;
+    min-height: 125px;
+    
 
 
 }
@@ -88,6 +90,7 @@ div{
     background-color: #0000FF;
     text-align: left;
     border-width: 2px 5px 0px 0px;
+    margin: 0px 50px 0px 0px;
 
 
 
@@ -130,7 +133,7 @@ div{
 .green p{
 
     color: #ffffff;
-    
+
 }
 
 footer{
